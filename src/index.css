@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page-width{
+  max-width: 1536px;
+  margin: 0 auto;
+}
