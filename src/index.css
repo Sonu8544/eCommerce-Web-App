@@ -1,10 +1,19 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+ @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&family=Poppins&family=Roboto+Condensed:wght@100;400&display=swap');
 
-.page-width{
-  max-width: 1536px;
-  margin: 0 auto;
-}
+ * {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Poppins', sans-serif;
+ }
+
+ :root {
+   --logo-color: #171717;
+   --nav-color: #626262;
+   --nav-active-color: #FF4141;
+ }
+
+ .page-width {
+   max-width: 1536px;
+   margin: 0 auto;
+ }
