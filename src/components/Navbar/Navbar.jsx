@@ -1,7 +1,8 @@
 import React, { useState } from 'react'
 import "./Navbar.css"
-import logo from "../Assets/logo.png"
+// import logo from "../Assets/logo.png"
 import cart_icon from '../Assets/cart_icon.png'
+import shop_logo from '../Assets/shop_logo.png'
 
 const Navbar = () => {
 
@@ -10,7 +11,7 @@ const Navbar = () => {
     <>
       <div className="page-width navbar">
         <div className="nav-logo">
-          <img src={logo} alt="Nav logo" />
+          <img className='nav-logo-img' src={shop_logo} alt="Nav logo" />
           <p>eCom</p>
         </div>
 
