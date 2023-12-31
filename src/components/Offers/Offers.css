@@ -10,7 +10,6 @@
 
 #marginn{
     margin-top: 80px;
-    margin-bottom: 500px;
 }
 
 .offers-left {
@@ -57,6 +56,4 @@
     width: 100%;
     height: 100%;
     cursor: pointer;
-    /* object-fit: cover; */
-    /* object-position: center; */
 }

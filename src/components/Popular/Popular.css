@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
     gap: 10px;
-    height: 90vh;
+    /* height: 90vh; */
     margin-bottom: 500px;
 }
 
@@ -25,7 +25,17 @@
     margin-top: 50px;
     display: flex;
     gap: 30px;
-    max-width: 80%; 
-    /* display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr; */
+    /* max-width: 80%;  */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
+
+/* .popular-item .item{
+    max-width: 300px;
+} */
+
+/* .popular-item .item img{
+    width: 100%;
+    object-fit: contain;
+    object-position: center;
+} */
