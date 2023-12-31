@@ -1,6 +1,6 @@
 .ilem {
     width: 350px;
-    border: 2px solid;
+
 }
 
 .item p {
@@ -24,6 +24,7 @@
     font-weight: 500;
     text-decoration: line-through;
 }
+
 
 .item:hover {
     transform: scale(1.1);
