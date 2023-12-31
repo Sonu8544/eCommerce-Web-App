@@ -18,3 +18,10 @@
    max-width: 1536px;
    margin: 0 auto;
  }
+
+ #margin-t {
+   margin-top: 80px;
+ }
+ #margin-b {
+   margin-bottom: 80px;
+ }
