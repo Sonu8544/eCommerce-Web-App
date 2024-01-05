@@ -1,0 +1,4 @@
+.item svg:hover{
+    scale: 1.5;
+   transition: all 1s ease-in-out;
+}
